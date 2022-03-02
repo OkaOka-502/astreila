@@ -18,7 +18,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-            <ul class="navbar-nav mt-2 mt-lg-0" style="margin-right: 45em">
+            <ul class="navbar-nav mt-2 mt-lg-0" style="margin-right: 46em">
               <li class="nav-item active">
                 <NuxtLink class="ml-2 mr-4 text-white ml-4" to="/"
                   >Home</NuxtLink
